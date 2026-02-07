@@ -210,3 +210,8 @@ class Test_User_Profile :
 
 
 
+## git status
+## git add -A
+## git commit -m "first commit"
+## git status
+## git push -u origin master
