@@ -1,0 +1,17 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:151 The chromedriver version (143.0.7499.192) detected in PATH at C:\Users\intel\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.133); currently, chromedriver 144.0.7559.133 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:31 TestCase test_Credkart_login_excel_ddt_004 is started
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:35 Number of rows in excel is 9
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:40 Opening Browser and getting https://automation.credence.in/login
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:47 Entering the Email address Credencetest@test.com
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:51 Entering the Password
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:55 Click on the login button
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:59 Checking the login status
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:61 User login Successful and Taking Screenshot
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:63 Clicking on the Menu button
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:65 Clicking on the logout button
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:40 Opening Browser and getting https://automation.credence.in/login
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:47 Entering the Email address Credencetest@test.com11
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:31 TestCase test_Credkart_login_excel_ddt_004 is started
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:35 Number of rows in excel is 9
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:40 Opening Browser and getting https://automation.credence.in/login
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:47 Entering the Email address Credencetest@test.com

@@ -1,0 +1,5 @@
+
+Opening Firefox browser
+driver title is CredKart
+
+Browser Closed
