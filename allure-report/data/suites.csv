@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"This testcases is validate Credkart website login_excel_ddt","19720","test_Credkart_login_excel_ddt_004","testCases","2026-02-08","passed","2026-02-08","Test_User_Profile","test_Credkart_Login_Excel_002","",""
+"This testcases is validate Credkart website Registration","2708","test_Credkart_Registration_003","testCases","2026-02-08","passed","2026-02-08","Test_User_Profile","test_Credkart_User_001","",""
+"This testcases is validate Credkart website Login","2119","test_Credkart_login_002","testCases","2026-02-08","passed","2026-02-08","Test_User_Profile","test_Credkart_User_001","",""
+"This testcases is validate Credkart website title","834","test_verify_Credkart_url_001","testCases","2026-02-08","passed","2026-02-08","Test_User_Profile","test_Credkart_User_001","",""

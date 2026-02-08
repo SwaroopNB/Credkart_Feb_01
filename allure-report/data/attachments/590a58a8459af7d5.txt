@@ -1,0 +1,31 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:140 The chromedriver version (143.0.7499.192) detected in PATH at C:\Users\intel\AppData\Local\Programs\Python\Python314\Scripts\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.133); currently, chromedriver 144.0.7559.133 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:41 TestCase test_Credkart_login_excel_ddt_004 is started
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:45 Number of rows in excel is 5
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:50 Opening Browser and getting https://automation.credence.in/login
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:57 Entering the Email address Credencetest@test.com
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:61 Entering the Password
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:65 Click on the login button
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:69 Checking the login status
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:71 User login Successful and Taking Screenshot
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:74 Clicking on the Menu button
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:76 Clicking on the logout button
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:50 Opening Browser and getting https://automation.credence.in/login
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:57 Entering the Email address Credencetest@test.com11
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:61 Entering the Password
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:65 Click on the login button
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:69 Checking the login status
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:82 User login Failed and Taking Screenshot
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:50 Opening Browser and getting https://automation.credence.in/login
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:57 Entering the Email address Credencetest@test.com
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:61 Entering the Password
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:65 Click on the login button
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:69 Checking the login status
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:82 User login Failed and Taking Screenshot
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:50 Opening Browser and getting https://automation.credence.in/login
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:57 Entering the Email address Credencetest@test.com1
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:61 Entering the Password
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:65 Click on the login button
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:69 Checking the login status
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:82 User login Failed and Taking Screenshot
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:97 All the testcases are Passed
+[32mINFO    [0m root:test_Credkart_Login_Excel_002.py:102 TestCase test_Credkart_login_excel_ddt_004 is Completed

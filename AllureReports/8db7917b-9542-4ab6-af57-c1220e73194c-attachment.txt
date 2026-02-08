@@ -1,5 +1,0 @@
-
-Opening Chrome browser
-driver title is CredKart
-
-Browser Closed
